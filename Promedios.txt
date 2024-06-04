@@ -1,0 +1,4 @@
+316803793,Alexander,Ramírez,Hernández,Ingeniería Informática,100
+809226545,LuisSteven,Ramírez,Hernández,Medicina,90
+831313539,AnaPatricia,Hernández,Benavidez,Derecho,90
+068267633,Alex,Ramírez,Hernández,Derecho,100
